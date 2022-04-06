@@ -1,0 +1,8 @@
+# What I am going to do is that I am going to take the existing the nodejs mongodb application and I am going to Dockerize it
+# Running mongodb and nodejs in the separate container and Want them to communicate with eachother
+
+
+# Running In the Background
+docker-compose up -d    // Runs it in the Background
+# Down All
+docker-compose down 
